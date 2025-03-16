@@ -1,1 +1,1 @@
-# java_clock_project
+This is clock program written in java 
